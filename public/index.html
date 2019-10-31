@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Upload your Resume</title>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" 
+    integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" 
+    crossorigin="anonymous">
+    <style>
+    .myheader{
+        width:100%;
+        text-align: center;
+        background-color: black;
+        color: #aaaaaa;
+    }
+    .mybody {
+        text-align:center;
+        background-image:url("resume1.jpg");
+    }
+    .myinput {
+        top:25;
+        width:35%;
+        height:100%;
+        text-align:center;
+    }
+     html{
+         background-image:url("resume1.jpg");
+     }
+    
+    #userinput {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    }
+    
+    </style>
+    <script type="text/javascript">
+
+        
+        
+    </script>
+</head>
+
+
+<body>
+    <div class="myheader">
+        <h1>Resume Evaluator</h1>
+        <h2>Powered by Watson</h2>
+    </div>
+    
+    <div class="mybody">
+        <form id="userform" class="pure-form pure-form-stacked" action="/upload/" method="post">
+            <textarea id="userinput" type="text" name="bodytext" rows="25" class="pure-input-rounded myinput" placeholder="Text..."></textarea>
+            <button type="submit" class="pure-button pure-button-primary myinput">Submit</button>
+        </form>
+    </div>
+</body>
+
+</html>

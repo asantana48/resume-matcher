@@ -1,0 +1,694 @@
+{
+    "matching_results": 2,
+    "results": [
+        {
+            "id": "8cf983310ef389202822e2811b73be7e",
+            "score": 23.718336,
+            "extracted_metadata": {
+                "publicationdate": "2017-11-27",
+                "sha1": "c7be86c0b46f59c47441aeaa21a9e348a4b2be3f",
+                "author": "Indeed",
+                "filename": "Joe-Sema.pdf",
+                "file_type": "pdf",
+                "title": "Indeed Resume"
+            },
+            "html": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>\n<head>\n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta content=\"Indeed\" name=\"author\"/><meta content=\"2017-11-27\" name=\"publicationdate\"/><title>Indeed Resume</title></head>\n<body><h2><p>Joe Sema\n</p></h2><p><b>Lab Consultant - Penn State Information Technology Services\n</b></p><p>University Park, PA - Email me on Indeed: <a href=\"https://www.indeed.com/r/Joe-Sema/322d594bf4222837?isid=rex-download&amp;ikw=download-top&amp;co=US\">indeed.com/r/Joe-Sema/322d594bf4222837\n</a></p><p>Seeking a development position, in a challenging environment that focuses on the IS Project Management, Data Security, and Designing Systems and Software.\n</p><p>Willing to relocate: Anywhere Authorized to work in the US for any employer\n</p><p>WORK EXPERIENCE\n</p><p><b>Lab Consultant\n</b></p><p>Penn State Information Technology Services - University Park, PA - September 2017 to Present\n</p><p>• Oversee and sustain the status of printers, computer systems, inventory and major computer lab necessities\n</p><p>• Solve computer hardware and software issues such as printer jams, printer toner refills, helping students with Penn State\n</p><p>account memory allocation, webmail, and course management system.\n</p><p><b>Software Developer and Engineer\n</b></p><p>Penn State Hospitality Management and Finance Department - University Park, PA - June 2017 to Present\n</p><p>Summer 2017 - Present\n</p><p>• Developed a management and finance Android and iOS application with the use of git for version control, Android Studio and\n</p><p>XCode. Created UML Diagrams such as Use Case Diagrams and Class Diagrams along with Wireframes.\n</p><p>• Implemented Google's Firebase UI, Authentication, and Real-time Database within both Android and iOS finance\n</p><p>applications to allow features such as two-way communication within a blog among classes and alumni.\n</p><p><b>Developer\n</b></p><p>Hack-A-Thon PSU - 2017 to Present\n</p><p>• Engineered a computer mouse that functions as a fully operating computer with storage, Wi-Fi, and Bluetooth connectivity.\n</p><p>• Invented application with General Motor's SDK to talk to AWS and Alexa for tasks involving data on cars such as mileage.\n</p><p>• Used Amazon Web Services (AWS) API and Wolfram Alpha API to make Amazon Alexa smarter.\n</p><p>• Programmed Amazon Alexa to answer large calculus equations and answer scientific questions about planets, geographic\n</p><p>distances, and general knowledge of sports.\n</p><p><b>Server - Client Chat Application, Software Developer\n</b></p><p>- March 2017 to May 2017\n</p><p>• Built a server that can send data messages/packets from one client to another using java socket programming.\n</p><p>• All users can send messages and server relays all messages to each client.\n</p><p><b>Credentials Management Application, Scrum Master and Developer\n</b></p><p>- September 2016 to November 2016\n</p><p>• Stores and allows access to user's credentials with the correct username and password.\n</p><p>• Managed a team of developers using Agile and Scrum methodologies.\n</p><p>• Created Unified Modeling Language Diagrams to design before beginning development.\n</p><p>• Version Control maintained through GitHub and large data was stored with MySQL Database.\n</p><p><b>Project Manager\n</b></p><p>Pong Pi - September 2016 to November 2016\n</p><p>• Assembled and organized the production of the \"Pong Pi, \" using a Sense HAT and a Raspberry Pi.\n</p><p>• Taught students using Python programming in Robotics Club, to program a RGB matrix to play the classic game of Pong.\n</p><p>EDUCATION\n</p><p><b>Bachelor of Science in Information Sciences and Technology\n</b></p><p>The Pennsylvania State University State College May 2018\n</p><p>SKILLS\n</p><p>API (Less than 1 year), AWS (Less than 1 year), IOS (Less than 1 year), UML (Less than 1 year), .NET (Less than 1 year)\n</p><p>ADDITIONAL INFORMATION\n</p><p>SKILLS\n</p><p>• Programming: Java, SQL, Python, C++, HTML, CSS, JavaScript\n</p><p>Software: Visual Studio, NetBeans, PyCharm, Oracle SQL Developer, Eclipse, Windows, Apple iOS, Visio, GitHub, Google Suites, AWS and Wolfram Alpha API, UML Design Structures, Agile, Scrum Method, Wireframing, Junit tests, Unix Terminal, Linux, Anaconda, Markdown, Server-Client Design, XML.\n</p></body></html>",
+            "text": "Indeed Resume\n\nJoe Sema\n\nLab Consultant - Penn State Information Technology Services\n\nUniversity Park, PA - Email me on Indeed: indeed.com/r/Joe-Sema/322d594bf4222837\n\nSeeking a development position, in a challenging environment that focuses on the IS Project Management, Data Security, and Designing Systems and Software.\n\nWilling to relocate: Anywhere Authorized to work in the US for any employer\n\nWORK EXPERIENCE\n\nLab Consultant\n\nPenn State Information Technology Services - University Park, PA - September 2017 to Present\n\n• Oversee and sustain the status of printers, computer systems, inventory and major computer lab necessities\n\n• Solve computer hardware and software issues such as printer jams, printer toner refills, helping students with Penn State\n\naccount memory allocation, webmail, and course management system.\n\nSoftware Developer and Engineer\n\nPenn State Hospitality Management and Finance Department - University Park, PA - June 2017 to Present\n\nSummer 2017 - Present\n\n• Developed a management and finance Android and iOS application with the use of git for version control, Android Studio and\n\nXCode. Created UML Diagrams such as Use Case Diagrams and Class Diagrams along with Wireframes.\n\n• Implemented Google's Firebase UI, Authentication, and Real-time Database within both Android and iOS finance\n\napplications to allow features such as two-way communication within a blog among classes and alumni.\n\nDeveloper\n\nHack-A-Thon PSU - 2017 to Present\n\n• Engineered a computer mouse that functions as a fully operating computer with storage, Wi-Fi, and Bluetooth connectivity.\n\n• Invented application with General Motor's SDK to talk to AWS and Alexa for tasks involving data on cars such as mileage.\n\n• Used Amazon Web Services (AWS) API and Wolfram Alpha API to make Amazon Alexa smarter.\n\n• Programmed Amazon Alexa to answer large calculus equations and answer scientific questions about planets, geographic\n\ndistances, and general knowledge of sports.\n\nServer - Client Chat Application, Software Developer\n\n- March 2017 to May 2017\n\n• Built a server that can send data messages/packets from one client to another using java socket programming.\n\n• All users can send messages and server relays all messages to each client.\n\nCredentials Management Application, Scrum Master and Developer\n\n- September 2016 to November 2016\n\n• Stores and allows access to user's credentials with the correct username and password.\n\n• Managed a team of developers using Agile and Scrum methodologies.\n\n• Created Unified Modeling Language Diagrams to design before beginning development.\n\n• Version Control maintained through GitHub and large data was stored with MySQL Database.\n\nProject Manager\n\nPong Pi - September 2016 to November 2016\n\n• Assembled and organized the production of the \"Pong Pi, \" using a Sense HAT and a Raspberry Pi.\n\n• Taught students using Python programming in Robotics Club, to program a RGB matrix to play the classic game of Pong.\n\nEDUCATION\n\nBachelor of Science in Information Sciences and Technology\n\nThe Pennsylvania State University State College May 2018\n\nSKILLS\n\nAPI (Less than 1 year), AWS (Less than 1 year), IOS (Less than 1 year), UML (Less than 1 year), .NET (Less than 1 year)\n\nADDITIONAL INFORMATION\n\nSKILLS\n\n• Programming: Java, SQL, Python, C++, HTML, CSS, JavaScript\n\nSoftware: Visual Studio, NetBeans, PyCharm, Oracle SQL Developer, Eclipse, Windows, Apple iOS, Visio, GitHub, Google Suites, AWS and Wolfram Alpha API, UML Design Structures, Agile, Scrum Method, Wireframing, Junit tests, Unix Terminal, Linux, Anaconda, Markdown, Server-Client Design, XML.",
+            "enriched_text": {
+                "sentiment": {
+                    "document": {
+                        "score": 0.506148,
+                        "label": "positive"
+                    }
+                },
+                "entities": [
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Penn State Information Technology Services",
+                        "relevance": 0.790481,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 3,
+                        "sentiment": {
+                            "score": 0.508717,
+                            "label": "positive"
+                        },
+                        "text": "Developer",
+                        "relevance": 0.757978,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 3,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "University Park",
+                        "relevance": 0.750571,
+                        "type": "Facility"
+                    },
+                    {
+                        "count": 3,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "PA",
+                        "relevance": 0.726455,
+                        "type": "Location",
+                        "disambiguation": {
+                            "subtype": [
+                                "StateOrCounty"
+                            ]
+                        }
+                    },
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Lab Consultant",
+                        "relevance": 0.667933,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0.334005,
+                            "label": "positive"
+                        },
+                        "text": "Penn State Hospitality Management and Finance Department",
+                        "relevance": 0.660301,
+                        "type": "Organization"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0.382082,
+                            "label": "positive"
+                        },
+                        "text": "Penn State",
+                        "relevance": 0.62205,
+                        "type": "Organization",
+                        "disambiguation": {
+                            "subtype": [
+                                "Location",
+                                "CollegeUniversity",
+                                "FootballTeam",
+                                "University"
+                            ],
+                            "name": "Pennsylvania State University",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Pennsylvania_State_University"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Scrum Master and Developer",
+                        "relevance": 0.576952,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0.0842271,
+                            "label": "positive"
+                        },
+                        "text": "Joe Sema",
+                        "relevance": 0.574268,
+                        "type": "Person"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Software Developer and Engineer",
+                        "relevance": 0.561129,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Google",
+                        "relevance": 0.552742,
+                        "type": "Company",
+                        "disambiguation": {
+                            "subtype": [
+                                "AcademicInstitution",
+                                "AwardPresentingOrganization",
+                                "OperatingSystemDeveloper",
+                                "ProgrammingLanguageDeveloper",
+                                "SoftwareDeveloper",
+                                "VentureFundedCompany"
+                            ],
+                            "name": "Google",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Google"
+                        }
+                    },
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0.47627,
+                            "label": "positive"
+                        },
+                        "text": "Wolfram Alpha",
+                        "relevance": 0.539327,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Designing Systems and Software",
+                        "relevance": 0.528938,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Pennsylvania State University State College",
+                        "relevance": 0.525942,
+                        "type": "Organization"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Software Developer",
+                        "relevance": 0.517182,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "US",
+                        "relevance": 0.489707,
+                        "type": "Location",
+                        "disambiguation": {
+                            "subtype": [
+                                "Region",
+                                "AdministrativeDivision",
+                                "GovernmentalJurisdiction",
+                                "FilmEditor",
+                                "Country"
+                            ],
+                            "name": "United States",
+                            "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Alexa",
+                        "relevance": 0.460728,
+                        "type": "Company",
+                        "disambiguation": {
+                            "subtype": [],
+                            "name": "Alexa Internet",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Alexa_Internet"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0.47627,
+                            "label": "positive"
+                        },
+                        "text": "Amazon",
+                        "relevance": 0.427892,
+                        "type": "Company",
+                        "disambiguation": {
+                            "subtype": [],
+                            "name": "Amazon.com",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Project Manager",
+                        "relevance": 0.409342,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Information Sciences and Technology",
+                        "relevance": 0.408166,
+                        "type": "PrintMedia"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "General Motor",
+                        "relevance": 0.406632,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "UML Design Structures",
+                        "relevance": 0.405129,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Robotics Club",
+                        "relevance": 0.395697,
+                        "type": "Organization"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Apple",
+                        "relevance": 0.391857,
+                        "type": "Company",
+                        "disambiguation": {
+                            "subtype": [
+                                "Brand",
+                                "OperatingSystemDeveloper",
+                                "ProcessorManufacturer",
+                                "ProgrammingLanguageDesigner",
+                                "ProgrammingLanguageDeveloper",
+                                "ProtocolProvider",
+                                "SoftwareDeveloper",
+                                "VentureFundedCompany",
+                                "VideoGameDeveloper",
+                                "VideoGamePublisher"
+                            ],
+                            "name": "Apple Inc.",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Visio",
+                        "relevance": 0.333902,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 5,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "1 year",
+                        "relevance": 0.333775,
+                        "type": "Quantity"
+                    }
+                ],
+                "concepts": [
+                    {
+                        "text": "Pennsylvania State University",
+                        "relevance": 0.956738,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Pennsylvania_State_University"
+                    },
+                    {
+                        "text": "Unified Modeling Language",
+                        "relevance": 0.920253,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Unified_Modeling_Language"
+                    },
+                    {
+                        "text": "Pennsylvania",
+                        "relevance": 0.819311,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Pennsylvania"
+                    },
+                    {
+                        "text": "State College, Pennsylvania",
+                        "relevance": 0.805492,
+                        "dbpedia_resource": "http://dbpedia.org/resource/State_College,_Pennsylvania"
+                    },
+                    {
+                        "text": "2016",
+                        "relevance": 0.8004,
+                        "dbpedia_resource": "http://dbpedia.org/resource/2016"
+                    },
+                    {
+                        "text": "University Park, Pennsylvania",
+                        "relevance": 0.776959,
+                        "dbpedia_resource": "http://dbpedia.org/resource/University_Park,_Pennsylvania"
+                    },
+                    {
+                        "text": "Software engineering",
+                        "relevance": 0.775939,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Software_engineering"
+                    },
+                    {
+                        "text": "2017",
+                        "relevance": 0.7636,
+                        "dbpedia_resource": "http://dbpedia.org/resource/2017"
+                    }
+                ],
+                "categories": [
+                    {
+                        "score": 0.517262,
+                        "label": "/business and industrial/business operations/management/project management"
+                    },
+                    {
+                        "score": 0.446376,
+                        "label": "/technology and computing"
+                    },
+                    {
+                        "score": 0.418072,
+                        "label": "/technology and computing/software"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "09cbc6da98770b3628c8ebc4b893695e",
+            "score": 20.566032,
+            "extracted_metadata": {
+                "publicationdate": "2017-11-27",
+                "sha1": "c144acbe630b1b0e71cf3192b977f007531c2a24",
+                "author": "Indeed",
+                "filename": "Paul-Johnson.pdf",
+                "file_type": "pdf",
+                "title": "Indeed Resume"
+            },
+            "html": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>\n<head>\n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta content=\"Indeed\" name=\"author\"/><meta content=\"2017-11-27\" name=\"publicationdate\"/><title>Indeed Resume</title></head>\n<body><h2><p>Paul Johnson\n</p></h2><p><b>Software Engineer Intern - SoftGenetics LLC\n</b></p><p>State College, PA - Email me on Indeed: <a href=\"https://www.indeed.com/r/Paul-Johnson/b4273fe29842acb4?isid=rex-download&amp;ikw=download-top&amp;co=US\">indeed.com/r/Paul-Johnson/b4273fe29842acb4\n</a></p><p>Dedicated and passionate software engineer with multiple years of experience in a wide range of programming languages searching for a career where my skills can be applied to create innovation solutions to complex problems. Self-motivated as well as team-oriented - able to work independently and within a team to ensure robust and timely deliverables.\n</p><p>Authorized to work in the US for any employer\n</p><p>WORK EXPERIENCE\n</p><p><b>Software Engineer Intern\n</b></p><p>SoftGenetics LLC - January 2017 to Present\n</p><p>Migrated an older Linux server running Tomcat 4.1 in the Java 1.4 SDK Environment to Tomcat 8.1 and developed new services for the system, including a MySQL database API. Created web applications in jQuery/ bootstrap, single page applications in ReactJS and NodeJS rendered web applications in Handlebars. Worked in a team using NodeJS and Electron Forge to create native Windows, MacOS and Linux applications. Wrote tests for React and Handlebars applications with the Jest framework.\n</p><p><b>Software Engineer Intern\n</b></p><p>Minitab, Inc - August 2016 to December 2016\n</p><p>Worked on projects among veteran engineers using Microsoft Team Foundation Server with Agile methodology and Git source control with an extensive code review process. Developed applications in C++ and C# to support existing framework, focused primarily but not exclusively on the HOOPS/3dGS library. Utilized CMake to generate cross-platform project files. Used the google C++ test framework to write unit tests for existing code and wrote scripts in Python and Batch to automate these processes.\n</p><p>EDUCATION\n</p><p><b>B.S. in Applied German\n</b></p><p>The Pennsylvania State University December 2017\n</p><p><b>B.S. in Information Science Technology\n</b></p><p>Pennsylvania State University-Main Campus - State College, PA December 2017\n</p><p>SKILLS\n</p><p>JAVA (4 years), LINUX (Less than 1 year), .NET (Less than 1 year), ANDROID (Less than 1 year), ASP (Less than 1 year)\n</p><p>ADDITIONAL INFORMATION\n</p><p>COMPUTER KNOWLEDGE:\n</p><p>Platforms:\n</p><p>• Windows NT/XP/7/10 • Linux\n</p><p>• Android • iOS\n</p><p>Development Software:\n</p><p>• Microsoft Visual Studio .NET 2015 • RStudio\n</p><p>• NetBeans / Eclipse • Microsoft SQL Server 2012\n</p><p>Computer Languages:\n</p><p>• Using and reviewing C++, C# and Python for development and release\n</p><p>• Understanding of Object Oriented design and Agile development approaches\n</p><p>• Using Git source control to collaborate with a team to complete a project\n</p><p>• Programming in Java, J2EE, Hibernate, Spring MVC\n</p><p>• Using ASP .NET with Azure and Node.JS for backend production.\n</p><p>• Creating and managing databases with Microsoft SQL Server and MongoDB\n</p><p>• Web Development with Javascript/Typescript, HTML5, CSS3\n</p></body></html>",
+            "text": "Indeed Resume\n\nPaul Johnson\n\nSoftware Engineer Intern - SoftGenetics LLC\n\nState College, PA - Email me on Indeed: indeed.com/r/Paul-Johnson/b4273fe29842acb4\n\nDedicated and passionate software engineer with multiple years of experience in a wide range of programming languages searching for a career where my skills can be applied to create innovation solutions to complex problems. Self-motivated as well as team-oriented - able to work independently and within a team to ensure robust and timely deliverables.\n\nAuthorized to work in the US for any employer\n\nWORK EXPERIENCE\n\nSoftware Engineer Intern\n\nSoftGenetics LLC - January 2017 to Present\n\nMigrated an older Linux server running Tomcat 4.1 in the Java 1.4 SDK Environment to Tomcat 8.1 and developed new services for the system, including a MySQL database API. Created web applications in jQuery/ bootstrap, single page applications in ReactJS and NodeJS rendered web applications in Handlebars. Worked in a team using NodeJS and Electron Forge to create native Windows, MacOS and Linux applications. Wrote tests for React and Handlebars applications with the Jest framework.\n\nSoftware Engineer Intern\n\nMinitab, Inc - August 2016 to December 2016\n\nWorked on projects among veteran engineers using Microsoft Team Foundation Server with Agile methodology and Git source control with an extensive code review process. Developed applications in C++ and C# to support existing framework, focused primarily but not exclusively on the HOOPS/3dGS library. Utilized CMake to generate cross-platform project files. Used the google C++ test framework to write unit tests for existing code and wrote scripts in Python and Batch to automate these processes.\n\nEDUCATION\n\nB.S. in Applied German\n\nThe Pennsylvania State University December 2017\n\nB.S. in Information Science Technology\n\nPennsylvania State University-Main Campus - State College, PA December 2017\n\nSKILLS\n\nJAVA (4 years), LINUX (Less than 1 year), .NET (Less than 1 year), ANDROID (Less than 1 year), ASP (Less than 1 year)\n\nADDITIONAL INFORMATION\n\nCOMPUTER KNOWLEDGE:\n\nPlatforms:\n\n• Windows NT/XP/7/10 • Linux\n\n• Android • iOS\n\nDevelopment Software:\n\n• Microsoft Visual Studio .NET 2015 • RStudio\n\n• NetBeans / Eclipse • Microsoft SQL Server 2012\n\nComputer Languages:\n\n• Using and reviewing C++, C# and Python for development and release\n\n• Understanding of Object Oriented design and Agile development approaches\n\n• Using Git source control to collaborate with a team to complete a project\n\n• Programming in Java, J2EE, Hibernate, Spring MVC\n\n• Using ASP .NET with Azure and Node.JS for backend production.\n\n• Creating and managing databases with Microsoft SQL Server and MongoDB\n\n• Web Development with Javascript/Typescript, HTML5, CSS3",
+            "enriched_text": {
+                "sentiment": {
+                    "document": {
+                        "score": 0.419243,
+                        "label": "positive"
+                    }
+                },
+                "entities": [
+                    {
+                        "count": 3,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Software Engineer Intern",
+                        "relevance": 0.875366,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 4,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Microsoft",
+                        "relevance": 0.646327,
+                        "type": "Company",
+                        "disambiguation": {
+                            "subtype": [
+                                "OperatingSystemDeveloper",
+                                "ProcessorManufacturer",
+                                "SoftwareDeveloper",
+                                "VentureFundedCompany",
+                                "VideoGameDeveloper",
+                                "VideoGamePublisher",
+                                "ProgrammingLanguageDesigner"
+                            ],
+                            "name": "Microsoft",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Microsoft"
+                        }
+                    },
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "SoftGenetics LLC",
+                        "relevance": 0.560052,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0.851239,
+                            "label": "positive"
+                        },
+                        "text": "software engineer",
+                        "relevance": 0.500129,
+                        "type": "JobTitle"
+                    },
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "State College",
+                        "relevance": 0.456172,
+                        "type": "Organization"
+                    },
+                    {
+                        "count": 2,
+                        "sentiment": {
+                            "score": 0.060089,
+                            "label": "positive"
+                        },
+                        "text": "Paul Johnson",
+                        "relevance": 0.447352,
+                        "type": "Person",
+                        "disambiguation": {
+                            "subtype": [
+                                "MusicalArtist",
+                                "BroadcastArtist",
+                                "MusicalGroupMember"
+                            ],
+                            "name": "Paul Johnson (producer)",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Paul_Johnson_(producer)"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Pennsylvania State University",
+                        "relevance": 0.390003,
+                        "type": "Organization",
+                        "disambiguation": {
+                            "subtype": [
+                                "Location",
+                                "CollegeUniversity",
+                                "FootballTeam",
+                                "University"
+                            ],
+                            "name": "Pennsylvania State University",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Pennsylvania_State_University"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0.544313,
+                            "label": "positive"
+                        },
+                        "text": "US",
+                        "relevance": 0.368543,
+                        "type": "Location",
+                        "disambiguation": {
+                            "subtype": [
+                                "Region",
+                                "AdministrativeDivision",
+                                "GovernmentalJurisdiction",
+                                "FilmEditor",
+                                "Country"
+                            ],
+                            "name": "United States",
+                            "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Pennsylvania State University-Main Campus",
+                        "relevance": 0.366047,
+                        "type": "Organization"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "google",
+                        "relevance": 0.342416,
+                        "type": "Company",
+                        "disambiguation": {
+                            "subtype": [
+                                "AcademicInstitution",
+                                "AwardPresentingOrganization",
+                                "OperatingSystemDeveloper",
+                                "ProgrammingLanguageDeveloper",
+                                "SoftwareDeveloper",
+                                "VentureFundedCompany"
+                            ],
+                            "name": "Google",
+                            "dbpedia_resource": "http://dbpedia.org/resource/Google"
+                        }
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Minitab, Inc",
+                        "relevance": 0.340179,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Electron Forge",
+                        "relevance": 0.33026,
+                        "type": "Company"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "Information Science Technology",
+                        "relevance": 0.325266,
+                        "type": "PrintMedia"
+                    },
+                    {
+                        "count": 4,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "1 year",
+                        "relevance": 0.25805,
+                        "type": "Quantity"
+                    },
+                    {
+                        "count": 1,
+                        "sentiment": {
+                            "score": 0,
+                            "label": "neutral"
+                        },
+                        "text": "4 years",
+                        "relevance": 0.25805,
+                        "type": "Quantity"
+                    }
+                ],
+                "concepts": [
+                    {
+                        "text": "Microsoft Visual Studio",
+                        "relevance": 0.963943,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Microsoft_Visual_Studio"
+                    },
+                    {
+                        "text": ".NET Framework",
+                        "relevance": 0.846278,
+                        "dbpedia_resource": "http://dbpedia.org/resource/.NET_Framework"
+                    },
+                    {
+                        "text": "Microsoft",
+                        "relevance": 0.761106,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Microsoft"
+                    },
+                    {
+                        "text": "Microsoft SQL Server",
+                        "relevance": 0.750153,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Microsoft_SQL_Server"
+                    },
+                    {
+                        "text": "Team Foundation Server",
+                        "relevance": 0.637275,
+                        "dbpedia_resource": "http://dbpedia.org/resource/Team_Foundation_Server"
+                    },
+                    {
+                        "text": "ADO.NET",
+                        "relevance": 0.483314,
+                        "dbpedia_resource": "http://dbpedia.org/resource/ADO.NET"
+                    },
+                    {
+                        "text": "ASP.NET",
+                        "relevance": 0.480463,
+                        "dbpedia_resource": "http://dbpedia.org/resource/ASP.NET"
+                    },
+                    {
+                        "text": "C Sharp",
+                        "relevance": 0.475106,
+                        "dbpedia_resource": "http://dbpedia.org/resource/C_Sharp_(programming_language)"
+                    }
+                ],
+                "categories": [
+                    {
+                        "score": 0.54114,
+                        "label": "/science/computer science/software engineering"
+                    },
+                    {
+                        "score": 0.526513,
+                        "label": "/technology and computing/programming languages/c and c++"
+                    },
+                    {
+                        "score": 0.437071,
+                        "label": "/technology and computing/programming languages/java"
+                    }
+                ]
+            }
+        }
+    ]
+}
